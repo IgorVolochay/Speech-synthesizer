@@ -1,0 +1,1 @@
+- [(Habr) Нейросетевой синтез речи своими руками](https://habr.com/ru/company/speechpro/blog/358816/)
